@@ -3,8 +3,8 @@
     { "id": 1, "title": "Post 1" }
   ],
   "books": [
-    { "code": 2600525, "title": "Tintin au Tibet", "author": "Hergé", createdAt: "2022-05-31T15:25:43.511Z" },
-    { "code": 2600526, "title": "Vingt mille lieues sous les mers", "author": "Jules Verne", createdAt: "2022-05-31T15:25:43.511Z" },    
-    { "code": 2600527, "title": "Genesis", "author": "Sebastião Salgado", createdAt: "2022-05-31T15:25:43.511Z" }
+    { "id": 1, "code": 2600525, "title": "Tintin au Tibet", "author": "Hergé", "createdAt": "2022-05-31T15:25:43.511Z" },
+    { "id": 2, "code": 2600526, "title": "Vingt mille lieues sous les mers", "author": "Jules Verne", "createdAt": "2022-05-31T15:25:43.511Z" },    
+    { "id": 3, "code": 2600527, "title": "Genesis", "author": "Sebastião Salgado", "createdAt": "2022-05-31T15:25:43.511Z" }
   ]
 }
