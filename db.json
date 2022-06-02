@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "authors": [
+    { "id": 1, "title": "Post 1" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "books": [
+    { "code": 2600525, "title": "Tintin au Tibet", "author": "Hergé", createdAt: "2022-05-31T15:25:43.511Z" },
+    { "code": 2600526, "title": "Vingt mille lieues sous les mers", "author": "Jules Verne", createdAt: "2022-05-31T15:25:43.511Z" },    
+    { "code": 2600527, "title": "Genesis", "author": "Sebastião Salgado", createdAt: "2022-05-31T15:25:43.511Z" }
+  ]
 }
